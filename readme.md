@@ -1,6 +1,6 @@
-# 🧭 Validant.ai — Systems for Trust & Agency
+# validant.ai — Systems for Trust & Agency
 
-**Validant.ai** is a deep-tech venture dedicated to building **trust infrastructure for the age of intelligent agents**.  
+**validant.ai** is a deep-tech venture dedicated to building **trust infrastructure for the age of intelligent agents**.  
 We develop technologies and frameworks that help people and organizations **verify, trust, and act** in an increasingly AI-mediated world.
 
 Our core belief:  
@@ -17,7 +17,7 @@ We work across three layers of the digital trust stack:
 |:------|:------|:------------|
 | 🧠 **Human & AI Identity** | SSI, PoP, KYA | Verifiable identities for humans *and* intelligent agents (“Know-Your-Agent”). |
 | 🪪 **Verifiable Credentials** | C2PA, W3C VC | Portable, cryptographically verifiable claims for authenticity and reputation. |
-| 🔗 **Trust Infrastructure** | Data spaces, ledgers, and graphs | Building the rails for verifiable, explainable, and interoperable trust data. |
+| 🔗 **Trust Infrastructure** | Data spaces, wallets, ledgers, and graphs | Building the rails for verifiable, explainable, and interoperable trust data. |
 
 ---
 
